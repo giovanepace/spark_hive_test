@@ -40,7 +40,7 @@
 
           docker exec -it kafka bash
 
-## Acesso JDBC
+## JDBC Access
 
    ##### MySQL
           jdbc:mysql://database/employees
@@ -56,27 +56,27 @@
 ## Users ans passwords
 
    ##### Hue
-    Usuário: admin
-    Senha: admin
+    User: admin
+    pwd: admin
 
    ##### Metabase
-    Usuário: bigdata@class.com
-    Senha: bigdata123 
+    User: bigdata@class.com
+    pwd: bigdata123 
 
    ##### MySQL
-    Usuário: root
-    Senha: secret
+    User: root
+    pwd: secret
    
    ##### MongoDB
-    Usuário: root
-    Senha: root
+    User: root
+    pwd: root
     Authentication Database: admin
 
-## Imagens   
+## Images   
 
 [Docker Hub](https://hub.docker.com/u/fjardim)
 
-## Documentação Oficial
+## Official docummentation
 
 * https://zookeeper.apache.org/
 * https://kafka.apache.org/
